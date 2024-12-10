@@ -19,3 +19,16 @@ padding: 20px 10px;
 background: rgb(117, 21, 21); /* pick a color */
 border-radius: 25%;
 }
+.project p { /* change the appearance of paragraph tags inside .project divs */
+    text-align: center;
+    margin: 15px;
+    }
+.project img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid rgba(174, 152, 24, 0.647); /* choose a color */
+    display: block;
+    margin: auto;
+    }
+
